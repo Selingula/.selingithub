@@ -1,0 +1,132 @@
+[
+{
+"filmadi":"Esaretin Bedeli",
+"yonetmen":"Frank Darabont",
+"tur":"Dram",
+"sure":"2s20dk",
+"imdb":"9,3",
+"vizyonyili":"1994",
+"ulke":"ABD",
+"basroller":"Tim Robbins, Morgan Freeman"
+},
+{
+"filmadi":"Yeşil Yol",
+"yonetmen":"Frank Darabont",
+"tur":"Fantastik, Polisiye, Dram",
+"sure":"3s9dk",
+"imdb":"8,6",
+"vizyonyili":"1999",
+"ulke":"ABD",
+"basroller":"Tom Hanks, Michael Clarke Duncan"
+},
+{
+"filmadi":"Forrest Gump",
+"yonetmen":"Robert Zemeckis",
+"tur":"Dramatik komedi, Romantik",
+"sure":"2s22dk",
+"imdb":"8,8",
+"vizyonyili":"1994",
+"ulke":"ABD",
+"basroller":"Tom Hanks, Gary Sinise"
+},
+{
+"filmadi":"Jurassic Park",
+"yonetmen":"Steven Spielberg",
+"tur":"Macera, Bilimkurgu",
+"sure":"2s7dk",
+"imdb":"8,1",
+"vizyonyili":"1993",
+"ulke":"ABD",
+"basroller":"Sam Neill, Laura Dern, Jeff Goldblum"
+},
+{
+"filmadi":"Baba",
+"yonetmen":"Francis Ford Coppola",
+"tur":"Polisiye, Dram",
+"sure":"2s55dk",
+"imdb":"9,2",
+"vizyonyili":"1972",
+"ulke":"ABD",
+"basroller":"Marlon Brando, Al Pacino"
+},
+{
+"filmadi":"3 Ahmak",
+"yonetmen":"Rajkumar Hirani",
+"tur":"Komedi, Bollywood",
+"sure":"2s50dk",
+"imdb":"8,4",
+"vizyonyili":"2009",
+"ulke":"Hindistan",
+"basroller":"Aamir Khan, Madhavan, Kareena Kapoor"
+},
+{
+"filmadi":"Roma",
+"yonetmen":"Alfonso Cuarón",
+"tur":"Dram",
+"sure":"2s15dk",
+"imdb":"7,8",
+"vizyonyili":"2018",
+"ulke":"Meksika, ABD",
+"basroller":" Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey"
+},
+{
+"filmadi":"Wonder Woman",
+"yonetmen":"Patty Jenkins",
+"tur":"Aksiyon, Macera, Fantastik",
+"sure":"2s21dk",
+"imdb":"7,5",
+"vizyonyili":"2017",
+"ulke":"ABD",
+"basroller":"Gal Gadot, Chris Pine, Robin Wright"
+},
+{
+"filmadi":"Asabiyim Ben",
+"yonetmen":"Damián Szifron",
+"tur":"Komedi, Dram",
+"sure":"2s2dk",
+"imdb":"8,1",
+"vizyonyili":"2014",
+"ulke":"Arjantin, İspanya",
+"basroller":"Darío Grandinetti, María Marull, Mónica Villa"
+},
+{
+"filmadi":"Gazap Üzümleri",
+"yonetmen":"John Ford",
+"tur":"Dram",
+"sure":"2s9dk",
+"imdb":"8,1",
+"vizyonyili":"1940",
+"ulke":"ABD",
+"basroller":"Henry Fonda, Jane Darwell, John Carradine"
+},
+{
+"filmadi":"Sevimli Canavarlar",
+"yonetmen":"Pete Docter",
+"tur":"Animasyon, Komedi",
+"sure":"1s32dk",
+"imdb":"8,0",
+"vizyonyili":"2001",
+"ulke":"ABD",
+"basroller":"John Goodman, Billy Crystal, Steve Buscemi"
+},
+{
+"filmadi":"Köstebek",
+"yonetmen":"Martin Scorsese",
+"tur":"Polisiye, Dram",
+"sure":"2s31dk",
+"imdb":"8,5",
+"vizyonyili":"2006",
+"ulke":"ABD",
+"basroller":"Leonardo DiCaprio, Matt Damon, Jack Nicholson"
+},
+{
+"filmadi":"Gladyatör",
+"yonetmen":"Ridley Scott",
+"tur":"Epik, Macera",
+"sure":"2s35dk",
+"imdb":"8,5",
+"vizyonyili":"2000",
+"ulke":"ABD, İngiltere",
+"basroller":"Russell Crowe, Joaquin Phoenix, Connie Nielsen"
+}
+]
